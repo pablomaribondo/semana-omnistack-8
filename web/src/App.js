@@ -1,9 +1,9 @@
+import "./App.css";
+
+import Login from "./pages/Login";
+
 const App = () => {
-  return (
-    <div>
-      <div>rocketseat</div>
-    </div>
-  );
+  return <Login />;
 };
 
 export default App;

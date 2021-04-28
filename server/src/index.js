@@ -1,5 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose");
+const cors = require("cors");
 require("dotenv").config();
 
 const routes = require("./routes");
@@ -13,6 +14,7 @@ mongoose.connect(MONGO_ATLAS_URI, {
   useUnifiedTopology: true,
 });
 
+server.use(cors());
 server.use(express.json());
 server.use(routes);
 

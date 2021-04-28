@@ -1,9 +1,9 @@
 import "./App.css";
 
-import Login from "./pages/Login";
+import Routes from "./routes";
 
 const App = () => {
-  return <Login />;
+  return <Routes />;
 };
 
 export default App;

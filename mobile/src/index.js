@@ -1,12 +1,9 @@
 import React from 'react';
-import {Text, View} from 'react-native';
+
+import Login from './pages/Login';
 
 const App = () => {
-  return (
-    <View>
-      <Text>Rocketseat</Text>
-    </View>
-  );
+  return <Login />;
 };
 
 export default App;

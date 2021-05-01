@@ -19,6 +19,46 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [React][reactjs]
 - [React Native][reactnative]
 
+## 📷 Screenshots
+
+### Mobile:
+
+<kbd>
+  <img src=".github/screenshot-login-mobile.png" alt="mobile login" width="300" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <img src=".github/screenshot-feed-mobile.png" alt="mobile feed" width="300" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <img src=".github/screenshot-match-mobile.png" alt="mobile match" width="300" />
+</kbd>
+
+&nbsp;&nbsp;
+
+### Web
+
+<kbd>
+  <img src=".github/screenshot-login-web.png" alt="web login" width="500" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <img src=".github/screenshot-feed-web.png" alt="web feed" width="500" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <img src=".github/screenshot-match-web.png" alt="web match" width="500" />
+</kbd>
+
 [rocketseat]: https://rocketseat.com.br/
 [nodejs]: https://nodejs.org/en/
 [reactjs]: https://reactjs.org/
